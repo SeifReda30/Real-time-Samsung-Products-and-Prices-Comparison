@@ -6,7 +6,7 @@ This Project is about Exploring Samsung Products from Popular eCommerce Websites
 ## Main Features
 
 * Scraping Product Description, Price, Rating and Details Link for each Product
-* Dealing with any Currency for Comparing Products other the Egyptian pound
+* Dealing with any Currency for Comparing Products other than Egyptian pound
 * Getting Products Prices with Real-time User Preferred Currency for any Program Options
 * Comparing Samsung Products by Price Range
 * Saving Products Data after Applying Price Range in Spreadsheets for every eCommerce Website
